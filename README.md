@@ -80,6 +80,5 @@ Tools are callable Python functions or APIs that allow agents to interact with t
 **Error Handling**: All tools implement a graceful fallback mechanism, returning error messages in JSON format to ensure system stability. 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/126bbb6c-200e-486f-b124-614f5aa1deff" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f013233a-1e35-4f55-b365-a7eb4eff143d" />
 
 
