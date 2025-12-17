@@ -1,5 +1,4 @@
-# Autogen_Stock_Analysis
-# Financial Analysis Multi-Agent System
+# Autogen_Stock_Analysis with Multi-Agent
 
 This repository contains the architecture and tool definitions for a multi-agent system designed for financial analysis. The system leverages specialized agents that utilize modular tools to fetch data, perform technical analysis, and generate investment recommendations. 
 
